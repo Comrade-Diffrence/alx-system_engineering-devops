@@ -1,3 +1,3 @@
-#!/bin/sh
-la -al . .. /boot
+#!/bin/bash
+ls -al . .. /root
 
